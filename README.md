@@ -1,5 +1,13 @@
 # README
 
+## About
+This repository contains the implementation of the Hidden Naive Bayes algorithm. From:
+
+*Ji, Yaguang & Yu, Songnian & Zhang, Yafeng. (2011). A novel Naive Bayes model: Packaged Hidden Naive Bayes. 2. 10.1109/ITAIC.2011.6030379.*
+
+
+More information about what we applied it to, see [here](https://github.com/laz08/uk-accidents-study/blob/master/docs/02-HNB-report.pdf).
+
 ## Authors
 
 * Carles G.
